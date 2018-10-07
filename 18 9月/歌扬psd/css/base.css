@@ -1,0 +1,15 @@
+body,h1,h2,h3,h4,h5,p,dl,dd,ul,ol,form,input,textarea,th,td,select { margin:0; padding:0; }
+em { font-style:normal; }
+li { list-style:none; }
+a { text-decoration:none; }
+img { border:none; vertical-align:top; }
+table { border-collapse:collapse; }
+input,textarea { outline:none; }
+textarea { resize:none; overflow:auto; }
+body { font-size:12px; font-family:"Arial"; }
+.clear{clear:both; }
+.fl { float:left; }
+.fr { float:right; }
+input[type=button], input[type=submit], input[type=file], button { cursor: pointer; -webkit-appearance: none; } 
+.clearfix:after,.container:after{content:"";height:0;line-height:0;display: block;visibility: hidden;clear: both;}
+.clearfix,.container{zoom: 1;}

@@ -1,0 +1,522 @@
+@media (max-width:600px) {
+    .tp-tit {
+        font-size:34px;
+    }
+    .itit-box .ch {
+        font-size:28px;
+    }
+    .itit-box .en {
+        font-size:20px;
+    }
+    .iabo-tit {
+        font-size:26px;
+    }
+    .iabo-txt {
+        font-size:24px;
+    }
+    .iabo-more {
+        font-size:22px;
+    }
+    .izyy-tit {
+        font-size:24px;
+    }
+    .izyy-txt {
+        font-size:22px;
+    }
+    .izyy-wz {
+        height:210px;
+    }
+    .itec-list p {
+        font-size:24px;
+    }
+    .icoo-tab .li-wz span {
+        font-size:22px;
+    }
+    .icoo-cp p {
+        font-size:22px;
+    }
+    .foo-link .link-le {
+        font-size:22px;
+    }
+    .foo-nav li {
+        font-size:20px;
+    }
+    .foo-lxfs {
+        font-size:20px;
+    }
+    .foo-ewm p {
+        font-size:20px;
+    }
+    .menu li  {
+        font-size:28px;
+    }
+    .foo-link {
+        padding-left:116px;
+    }
+    .search-box .txt {
+        font-size:18px;
+    }
+    .banner-wz {
+        font-size:28px;
+    }
+    .ny-menu-tit {
+        font-size:34px;
+    }
+    .price {
+        font-size:24px;
+    }
+    .yzfw-tit .en {
+        font-size:34px;
+    }
+    .yzfw-tit .ch {
+        font-size:26px;
+    }
+    .yzfw-txt {
+        font-size:24px;
+    }
+    .yzfw-rx span {
+        font-size:34px;
+    }
+    .ny-menu .list li, .ny-menu .list2 .li-tit {
+        font-size:28px;
+    }
+    .ny-menu .list2 .menul {
+        font-size:26px;
+    }
+    .dtgy-txt {
+        font-size:24px;
+    }
+    .xwxq-tit {
+        font-size:28px;
+    }
+    .xwxq-txt {
+        font-size:24px;
+    }
+    .gczl-txt {
+        font-size: 20px;
+    }
+    .gczl-img p {
+        font-size:24px;
+    }
+    .lxwm-tit {
+        font-size:28px;
+    }
+    .lxwm-txt {
+        font-size:24px;
+    }
+    .lxwm-txt .pho {
+        font-size:34px;
+    }
+    .gsjj-txt {
+        font-size:24px;
+    }
+}
+@media (max-width:550px) {
+    .tp-tit {
+        font-size:32px;
+    }
+    .itit-box .ch {
+        font-size:26px;
+    }
+    .itit-box .en {
+        font-size:18px;
+    }
+    .iabo-tit {
+        font-size:24px;
+    }
+    .iabo-txt {
+        font-size:22px;
+    }
+    .iabo-more {
+        font-size:20px;
+    }
+    .izyy-tit {
+        font-size:22px;
+    }
+    .izyy-txt {
+        font-size:20px;
+    }
+    .izyy-wz {
+        height:190px;
+    }
+    .itec-list p {
+        font-size:22px;
+    }
+    .icoo-tab .li-wz span {
+        font-size:20px;
+    }
+    .icoo-cp p {
+        font-size:20px;
+    }
+    .foo-link .link-le {
+        font-size:20px;
+    }
+    .menu li  {
+        font-size:26px;
+    }
+    .ny-menu-tit {
+        font-size:32px;
+    }
+    .ny-menu .list li, .ny-menu .list2 .li-tit {
+        font-size:26px;
+    }
+    .ny-menu .list2 .menul {
+        font-size:24px;
+    }
+    .xwxq-tit {
+        font-size:26px;
+    }
+    .xwxq-txt {
+        font-size: 22px;
+    }
+    .price {
+        font-size: 22px;
+    }
+    .gczl-txt {
+        font-size: 18px;
+    }
+    .gczl-img p {
+        font-size:22px;
+    }
+    .lxwm-tit {
+        font-size:26px;
+    }
+    .lxwm-txt {
+        font-size:22px;
+    }
+    .lxwm-txt .pho {
+        font-size:32px;
+    }
+    .gsjj-txt {
+        font-size:22px;
+    }
+}
+@media (max-width:500px) {
+    .foo-link {
+        padding-left:110px;
+    }
+    .tp-tit {
+        font-size:28px;
+    }
+    .foo-nav li {
+        font-size:18px;
+    }
+    .foo-lxfs {
+        font-size:18px;
+    }
+    .foo-ewm p {
+        font-size:18px;
+    }
+    .izyy-tit {
+        font-size:20px;
+    }
+    .izyy-txt {
+        font-size:18px;
+    }
+    .izyy-wz {
+        height:170px;
+    }
+    .icoo-tab .li-wz span {
+        font-size:18px;
+    }
+    .icoo-cp p {
+        font-size:18px;
+    }
+    .menu li {
+        font-size:24px;
+    }
+    .search-box .txt {
+        font-size:16px;
+    }
+    .banner-wz {
+        font-size:26px;
+    }
+    .ny-menu-tit {
+        font-size:30px;
+    }
+    .price {
+        font-size:20px;
+    }
+    .yzfw-tit .en {
+        font-size:32px;
+    }
+    .yzfw-tit .ch {
+        font-size:24px;
+    }
+    .yzfw-txt {
+        font-size:22px;
+    }
+    .yzfw-rx span {
+        font-size:32px;
+    }
+    .ny-menu .list li, .ny-menu .list2 .li-tit {
+        font-size:24px;
+    }
+    .ny-menu .list2 .menul {
+        font-size:22px;
+    }
+    .dtgy-txt {
+        font-size:22px;
+    }
+    .xwxq-tit {
+        font-size:24px;
+    }
+    .xwxq-txt {
+        font-size:20px;
+    }
+    .gczl-txt {
+        font-size: 16px;
+    }
+    .gczl-img p {
+        font-size:20px;
+    }
+    .lxwm-tit {
+        font-size:24px;
+    }
+    .lxwm-txt {
+        font-size:20px;
+    }
+    .lxwm-txt .pho {
+        font-size:30px;
+    }
+    .gsjj-txt {
+        font-size:20px;
+    }
+}
+@media (max-width:450px) {
+    .foo-link {
+        padding-left:100px;
+    }
+    .tp-tit {
+        font-size:26px;
+    }
+    .itit-box .ch {
+        font-size: 24px;
+    }
+    .itit-box .en {
+        font-size:16px;
+    }
+    .iabo-tit {
+        font-size:22px;
+    }
+    .iabo-txt {
+        font-size:20px;
+    }
+    .iabo-more {
+        font-size:18px;
+    }
+    .izyy-tit {
+        font-size:18px;
+    }
+    .izyy-txt {
+        font-size:16px;
+    }
+    .izyy-wz {
+        height:156px;
+    }
+    .itec-list p {
+        font-size:20px;
+    }
+    .icoo-cp p {
+        font-size:16px;
+    }
+    .foo-link .link-le  {
+        font-size:18px;
+    }
+    .foo-nav li {
+        font-size:16px;
+    }
+    .foo-lxfs {
+        font-size:16px;
+    }
+    .foo-ewm p {
+        font-size: 16px;
+    }
+    .icoo-tab .li-wz span {
+        font-size:16px;
+    }
+    .menu li {
+        font-size:22px;
+    }
+    .ny-menu-tit {
+        font-size:28px;
+    }
+    .yzfw-tit .en {
+        font-size:30px;
+    }
+    .yzfw-tit .ch {
+        font-size:22px;
+    }
+    .yzfw-txt {
+        font-size:20px;
+    }
+    .yzfw-rx span {
+        font-size:30px;
+    }
+    .ny-menu .list li, .ny-menu .list2 .li-tit  {
+        font-size:22px;
+    }
+    .ny-menu .list2 .menul {
+        font-size:20px;
+    }
+    .xwxq-tit {
+        font-size:22px;
+    }
+    .xwxq-txt {
+        font-size: 18px;
+    }
+    .price {
+        font-size:18px;
+    }
+    .gczl-img p {
+        font-size:18px;
+    }
+    .gczl-txt {
+        font-size: 14px;
+    }
+    .lxwm-tit {
+        font-size:22px;
+    }
+    .lxwm-txt {
+        font-size:18px;
+    }
+    .lxwm-txt .pho {
+        font-size:28px;
+    }
+    .gsjj-txt {
+        font-size:18px;
+    }
+}
+@media (max-width:400px) {
+    .gczl-img p {
+        font-size:16px;
+    }
+    .gczl-txt {
+        font-size: 12px;
+    }
+    .dtgy-txt {
+        font-size:20px;
+    }
+    .foo-link {
+        padding-left:90px;
+    }
+    .tp-tit {
+        font-size:22px;
+    }
+    .itit-box .ch {
+        font-size:22px;
+    }
+    .iabo-tit {
+        font-size: 20px;
+    }
+    .iabo-txt {
+        font-size:18px;
+    }
+    .izyy-tit {
+        font-size:16px;
+    }
+    .izyy-txt {
+        font-size:14px;
+    }
+    .izyy-wz {
+        height:136px;
+    }
+    .itec-list p {
+        font-size:18px;
+    }
+    .icoo-tab .li-wz span {
+        font-size:14px;
+    }
+    .icoo-cp p {
+        font-size:14px;
+    }
+    .foo-link .link-le {
+        font-size:16px;
+    }
+    .foo-nav li {
+        font-size:14px;
+    }
+    .foo-lxfs {
+        font-size:14px;
+    }
+    .menu li {
+        font-size:20px;
+    }
+    .search-box .txt {
+        font-size:14px;
+    }
+    .banner-wz {
+        font-size:24px;
+    }
+    .ny-menu-tit {
+        font-size:26px;
+    }
+    .price {
+        font-size:16px;
+    }
+    .yzfw-tit .en {
+        font-size:28px;
+    }
+    .yzfw-tit .ch {
+        font-size:20px;
+    }
+    .yzfw-txt {
+        font-size:18px;
+    }
+    .yzfw-rx span {
+        font-size:28px;
+    }
+    .ny-menu .list li, .ny-menu .list2 .li-tit {
+        font-size:20px;
+    }
+    .ny-menu .list2 .menul {
+        font-size:18px;
+    }
+    .xwxq-tit {
+        font-size:20px;
+    }
+    .xwxq-txt {
+        font-size:16px;
+    }
+    .lxwm-tit {
+        font-size:20px;
+    }
+    .lxwm-txt {
+        font-size:16px;
+    }
+    .lxwm-txt .pho {
+        font-size:26px;
+    }
+    .gsjj-txt {
+        font-size:16px;
+    }
+}
+@media (max-width:350px) {
+    .ny-menu-tit {
+        font-size: 24px;
+    }
+    .price {
+        font-size: 14px;
+    }
+    .xwxq-tit {
+        font-size: 18px;
+    }
+    .ny-menu-tit {
+        font-size:24px;
+    }
+    .yzfw-tit .en {
+        font-size:26px;
+    }
+    .yzfw-tit .ch {
+        font-size:18px;
+    }
+    .yzfw-txt {
+        font-size:16px;
+    }
+    .yzfw-rx span {
+        font-size:26px;
+    }
+    .dtgy-txt {
+        font-size:18px;
+    }
+}
